@@ -1,0 +1,19 @@
+.item__encabezado--menu {
+    margin-top: 1vw;
+}
+
+.menu__lista {
+    display: flex;
+}
+
+.menu__link {
+    color: var( --green-light);
+    font-family: 'Inter', sans-serif;
+    font-size: 0.6rem;
+    margin-right: 1.25rem;
+    text-decoration: none;
+}
+
+.menu__link:hover {
+    text-decoration: underline;
+}

@@ -1,0 +1,16 @@
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+
+
+    .sobre__titulo {
+        font-size: 1.2rem;
+        margin-bottom: 0.6rem;
+    }
+
+    .sobre__texto {
+        font-size: 0.9rem;
+        margin-right: 0vw;
+        width: 100%;
+    }
+
+}

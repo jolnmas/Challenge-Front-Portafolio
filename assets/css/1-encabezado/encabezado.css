@@ -1,0 +1,31 @@
+body {
+    background: var(--background-base);
+}
+
+.encabezado--flex {
+    background: var(--background-base);
+    display: flex;
+    justify-content: space-between;
+    margin-left: 10vw;
+    margin-right: 10vw;
+}
+
+.logo__persona--flex {
+    display: flex;
+}
+
+.item__logo {
+    margin-bottom: 1vw;
+    margin-right: 1vw;
+    margin-top: 1vw;
+    height:20px
+}
+
+.item__persona {
+    align-self: center;
+    color: var( --white-word);
+    font-family: 'Inter', sans-serif;
+    font-size: 0.8em;
+    font-weight: bold;
+    margin-right: 1vw;
+}

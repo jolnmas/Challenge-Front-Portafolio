@@ -1,0 +1,51 @@
+.exp1__container--flex {
+    display: flex;
+    padding-bottom: 2rem;
+}
+
+.exp1__imagen {
+    height: 300px;
+    width: 500px;
+}
+
+
+.exp1__titulo {
+    color: var( --white-word);
+    font-family: 'Inter', sans-serif;
+    font-size: 1rem;
+    margin-left: 1rem;
+    padding-top: 5rem;
+}
+
+.exp1__descripcion {
+    color: var( --white-word);
+    font-family: 'Inter', sans-serif;
+    font-size: 0.6rem;
+    margin-left: 1rem;
+    margin-top: 0.2rem;
+}
+
+#button__exp1--repo {
+    border: 1px solid rgb(122, 92, 255);
+    border-radius: 3px;
+    color: rgb(43, 160, 255);
+    font-family: 'Inter', sans-serif;
+    font-size: 0.7rem;
+    height: 40px;
+    margin-left: 1rem;
+    margin-top: 0.5rem;
+    width: 6rem;
+}
+
+#button__exp1--page {
+    background: rgb(92, 176, 255);
+    border: 1px solid rgb(122, 92, 255);
+    border-radius: 3px;
+    color: white;
+    font-family: 'Inter', sans-serif;
+    font-size: 0.7rem;
+    height: 40px;
+    margin-left: 1rem;
+    margin-top: 0.5rem;
+    width: 6rem;
+}

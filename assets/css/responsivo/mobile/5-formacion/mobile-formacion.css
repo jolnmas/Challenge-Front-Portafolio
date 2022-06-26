@@ -1,0 +1,72 @@
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+
+    .formacion__container--grid {
+        grid-template-columns: auto;
+        grid-template-rows: 10% 20% 5% 5% 20% 5% 5% 20% 5% 5%;
+        height: 620px;
+    }
+
+    .item1--grid {
+        order: -10;
+    }
+
+    .item2--grid {
+        grid-column: 1/4;
+        order: -9;
+    }
+
+    .item5--grid {
+        background:var(--orange);
+        grid-column: 1/4;
+        order: -8;
+    }
+
+    .item8--grid {
+        background:var(--orange);
+        grid-column: 1/4;
+        order: -7;
+    }
+
+
+
+
+
+    .item3--grid {
+        grid-column: 1/4;
+        order: -6;
+    }
+
+    .item6--grid {
+        background:var(--orange);
+        grid-column: 1/4;
+        order: -5;
+    }
+
+    .item9--grid {
+        background:var(--orange);
+        grid-column: 1/4;
+        order: -4;
+    }
+
+    .item4--grid {
+        grid-column: 1/4;
+        order: -3;
+    }
+
+    .item7--grid {
+        background:var(--orange);
+        grid-column: 1/4;
+        order: -2;
+    }
+
+    .item10--grid {
+        background:var(--orange);
+        grid-column: 1/4;
+        order: -1;
+    }
+
+
+
+
+}

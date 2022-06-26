@@ -1,0 +1,35 @@
+@media only screen and (max-width: 768px) {
+
+    .contacto__container--flex {
+        margin-left: 3vw;
+        margin-right: 3vw;
+    }
+
+    
+    .formulario__contacto{
+        background: none;
+        width:100%;
+  
+ 
+}
+
+    .contacto_item1 {
+        display: none;
+    }
+
+    .contacto_item2 {
+        padding-top: 1rem;
+        width:100%;
+        margin: 0 auto;
+    }
+
+    .contacto__titulo {
+        font-size: 1.1rem;
+        padding-top: 2rem;
+    }
+
+    .contacto__subtitulo {
+        font-size: 0.78rem;
+
+    }
+}

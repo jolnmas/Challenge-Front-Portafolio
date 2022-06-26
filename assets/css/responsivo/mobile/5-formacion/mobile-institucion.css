@@ -1,0 +1,35 @@
+@media only screen and (max-width: 768px) {
+
+
+    .item2--grid {
+        background: white;
+        margin-right: 0;
+    }
+
+    .institucion__nombre1 {
+        font-size: 1.1rem;
+    }
+
+    .item3--grid {
+        background: white;
+        margin-left: 0;
+        margin-right: 0;
+        
+    }
+
+    .institucion__nombre2 {
+        font-size: 1.1rem;
+    }
+
+
+    .item4--grid {
+        background: white;
+        margin-left: 0;
+    }
+
+    .institucion__nombre3 {
+        font-size: 1.1rem;
+    }
+
+
+}

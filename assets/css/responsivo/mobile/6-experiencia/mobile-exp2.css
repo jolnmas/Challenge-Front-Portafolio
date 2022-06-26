@@ -1,0 +1,31 @@
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+
+    .exp2__container--flex {
+        margin-bottom: 1rem;
+    }
+
+    .exp2__imagen {
+        height: 220px;
+        width: 100%;
+    }
+
+    .exp2__titulo {
+        font-size: 1.2rem;
+    }
+
+    .exp2__descripcion {
+        font-size: 0.75rem;
+    }
+
+    #button__exp2--repo {
+        font-size: 0.9rem;
+    }
+
+    #button__exp2--page {
+        font-size: 0.9rem;
+
+    }
+
+
+}

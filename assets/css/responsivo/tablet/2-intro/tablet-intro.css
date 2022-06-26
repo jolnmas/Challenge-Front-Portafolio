@@ -1,0 +1,29 @@
+@media only screen and (max-width: 768px) {
+
+    .intro {
+        margin-left: 3vw;
+        margin-right: 3vw;
+    }
+
+    .intro__texto--flex {
+        height: 150px;
+        width: 70%;
+    }
+
+    .intro__titulo {
+        font-size: 1rem;
+    }
+
+    .intro__texto {
+        font-size: 0.75rem;
+        margin-top: 0.5rem;
+    }
+
+    .intro__imagen {
+        background: url(../../../../../assets/img/perfil/foto_perfil.png) no-repeat center /cover;
+        height: 150px;
+        width: 150px;
+
+    }
+
+}

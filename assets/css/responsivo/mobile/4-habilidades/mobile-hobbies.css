@@ -1,0 +1,23 @@
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+
+    .hobbies__container--flex {
+        justify-content: space-between;
+
+    }
+
+    .hobbies__iten--flex {
+        border-radius: 5px;
+        height: 10rem;
+        width: 45%;
+    }
+
+    .hobbies__icon {
+        height: 3rem;
+    }
+
+    .hobbies__nombre {
+        font-size: 1rem;
+    }
+
+}

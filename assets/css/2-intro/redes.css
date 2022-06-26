@@ -1,0 +1,14 @@
+.intro__redes--flex {
+    display: flex;
+    margin-top: 2rem;
+}
+
+.redes_item {
+    font-family: 'Inter', sans-serif;
+    font-size: 0.7rem;
+    margin-right: 1rem;
+}
+
+.redes__link{
+    color: var(--green-light);
+}

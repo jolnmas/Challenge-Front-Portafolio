@@ -1,0 +1,44 @@
+#input__area {
+  border: none;
+  border-radius: 5px;
+  display: block;
+  font-family: 'Inter', sans-serif;
+  height: 24%;
+  margin-left: 1rem;
+  margin-bottom: 0;
+  resize: none;
+  width: 90%;
+}
+
+
+#input__area:focus {
+  border: none;
+  outline: none;
+}
+
+.error__mensaje {
+  color: red;
+  font-family: 'Inter', sans-serif;
+  font-size: 0.7rem;
+  margin-bottom: 0.5rem;
+  margin-left: 1rem;
+  opacity: 0%;
+}
+
+#button__enviar {
+  background: rgb(0, 140, 255);
+  border: 0px;
+  border-radius: 5px;
+  color: white;
+  font-family: 'Inter', sans-serif;
+  display: block;
+  height: 40px;
+  margin-left: 1rem;
+  width: 120px;
+}
+
+#button__enviar:hover {
+  background: rgb(36, 182, 48);
+  border: 1px solid black;
+}
+

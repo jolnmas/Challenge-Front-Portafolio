@@ -1,0 +1,64 @@
+.exp2__container--flex {
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 2rem;
+    padding-top: 0.2rem;
+}
+
+.exp2__imagen {
+    animation: inicio 5s;
+    animation-iteration-count: infinite;
+    background: url(../../img/proyectos/juegoAhorcado1.png) no-repeat center/contain;
+    height: 290px;
+    width: 500px;
+}
+
+@keyframes inicio {
+    0% {
+        background: url(../../img/proyectos/juegoAhorcado1.png) no-repeat center/contain;
+    }
+
+    33% {
+        background: url(../../img/proyectos/juegoAhorcado2.png) no-repeat center/contain;
+    }
+
+    66% {
+        background: url(../../img/proyectos/juegoAhorcado3.png) no-repeat center/contain;
+    }
+}
+
+.exp2__titulo {
+    color: var( --white-word);
+    font-family: 'Inter', sans-serif;
+    font-size: 1rem;
+    padding-top: 5rem;
+}
+
+.exp2__descripcion {
+    color: var( --white-word);
+    font-family: 'Inter', sans-serif;
+    font-size: 0.6rem;
+    margin-top: 0.2rem;
+}
+
+#button__exp2--repo {
+    border: 1px solid rgb(122, 92, 255);
+    border-radius: 3px;
+    color: rgb(43, 160, 255);
+    font-family: 'Inter', sans-serif;
+    height: 40px;
+    margin-top: 0.5rem;
+    width: 6rem;
+}
+
+#button__exp2--page {
+    background: rgb(92, 176, 255);
+    border: 1px solid rgb(122, 92, 255);
+    border-radius: 3px;
+    color: white;
+    font-family: 'Inter', sans-serif;
+    height: 40px;
+    margin-left: 0.5rem;
+    margin-top: 0.5rem;
+    width: 6rem;
+}

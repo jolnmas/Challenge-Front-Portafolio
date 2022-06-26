@@ -1,0 +1,27 @@
+@media only screen and (max-width: 768px) {
+
+  #input__area {
+    height: 45%;
+  }
+
+  #button__enviar {
+    border-radius: 2px;
+    height: 70px;
+    width: 150px;
+    margin: 0 auto;
+  }
+
+  .error__mensaje {
+    font-size: 1rem;
+  }
+
+  #button__enviar:hover {
+    background: rgb(36, 182, 48);
+    border: 1px solid black;
+
+  }
+
+  .mensaje__confimacion {
+    font-size: 1rem;
+  }
+}

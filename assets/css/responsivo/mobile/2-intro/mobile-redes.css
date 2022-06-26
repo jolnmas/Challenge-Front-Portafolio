@@ -1,0 +1,16 @@
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+
+
+    .intro__redes--flex {
+        justify-content: space-between;
+        margin-top: 1.5rem;
+    }
+
+    .redes_item{
+        font-size: 0.8rem;
+        text-align: center;
+    }
+
+
+}

@@ -1,0 +1,20 @@
+@media only screen and (max-width: 768px) {
+
+    .form__asunto {
+        height: 70px;
+        margin-bottom: 0.1rem;
+        margin-left: 1rem;
+        width: 90%;
+    }
+
+    .input__asunto {
+        font-size: 1rem;
+        padding-top: 0.6rem;
+        padding-left: 0.5rem;
+        width: calc(100% - 1.5rem);
+    }
+
+    .error__asunto {
+        font-size: 1rem;
+    }
+}

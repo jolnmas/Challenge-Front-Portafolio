@@ -1,0 +1,27 @@
+.formacion {
+    background: linear-gradient(to right,var(--b2 )2%,var(--b7 ) 10%,var(--b3 ),var(--b6 ),var(--b2 ),var(--b3 ));
+}
+
+.formacion__container--grid {
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+    grid-template-rows: 20% 50% 7% 10%;
+    height: 320px;
+    margin: 0 auto;
+    padding-bottom: 2rem;
+    padding-top: 1rem;
+    width: 80%;
+}
+
+.item1--grid {
+    grid-column: 1/4;
+}
+
+.formacion__titulo {
+    color: var( --white-word);
+    font-family: 'Inter', sans-serif;
+    font-size: 1.2rem;
+    font-weight: bold;
+    padding-top: 1.6rem;
+    text-align: center;
+}

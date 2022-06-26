@@ -1,0 +1,20 @@
+@media only screen and (max-width: 768px) {
+
+    .encabezado--flex {
+        margin-left: 3vw;
+        margin-right: 3vw;
+        height: 50px;
+    }
+
+    .item__logo {
+        margin-top: 20px;
+        height: 20px;
+        width: 20px;
+        margin-left: 0.5vw;
+    }
+
+    .item__persona {
+        font-size: 0.9rem;
+        margin-top: 3vw;
+    }
+}

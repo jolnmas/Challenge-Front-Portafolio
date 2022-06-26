@@ -1,0 +1,21 @@
+.habilidades {
+    margin-left: 10vw;
+    margin-right: 10vw;
+    margin-bottom: 2rem;
+}
+
+.habilidades__container--flex {
+    background: linear-gradient(to right,var(--a1 ),var(--a2 ));
+    display: flex;
+    flex-direction: column;
+}
+
+
+.habilidades__titulo {
+    color: var( --white-word-dark);
+    font-family: 'Inter', sans-serif;
+    font-size: 1.2rem;
+    font-weight: bold;
+    padding-top: 1.5rem;
+    text-align: center;
+}

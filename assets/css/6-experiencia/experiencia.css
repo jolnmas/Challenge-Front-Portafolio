@@ -1,0 +1,15 @@
+.experiencia {
+    background: linear-gradient(to right,var(--a2) ,var(--a1) 30%,var(--b8) 70%,var(--a2 ));
+    margin-left: 10vw;
+    margin-right: 10vw;
+}
+
+.experiencia__titulo {
+    color: var( --white-word);
+    font-family: 'Inter', sans-serif;
+    font-size: 1.5rem;
+    font-weight: bold;
+    padding-bottom: 2rem;
+    padding-top: 2rem;
+    text-align: center;
+}

@@ -1,0 +1,47 @@
+@media only screen and (max-width: 768px) {
+
+    .exp1__container--flex {
+        flex-direction: column;
+        padding-bottom: 0.5rem;
+
+    }
+
+
+    .exp1__imagen {
+        height: 400px;
+        width: 100%;
+    }
+
+    .exp1__titulo {
+        font-size: 1rem;
+        margin-left: 0.2rem;
+        padding-top: 1rem;
+        text-align: left;
+    }
+
+
+    .exp1__descripcion {
+        font-size: 0.6rem;
+        margin-left: 0.2rem;
+        margin-top: 0.2rem;
+    }
+
+    
+    #button__exp1--repo {
+        font-size: 0.7rem;
+        height: 40px;
+        margin-left: 0.2rem;
+        margin-top: 0.5rem;
+        width: 6rem ;
+
+    }
+    
+    #button__exp1--page {
+        font-size: 0.7rem;
+        height: 40px;
+        margin-left: 0.5rem;
+        margin-top: 0.5rem;
+        width: 6rem ;
+
+    }
+}

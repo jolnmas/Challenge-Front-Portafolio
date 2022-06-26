@@ -1,0 +1,75 @@
+.instituto__image {
+    display: block;
+    height: 80%;
+    margin: 20px auto;
+    width: 80%;
+}
+
+.institucion__nombre1 {
+    color: var( --white-word);
+    font-family: 'Inter', sans-serif;
+    font-size: 1rem;
+    padding-top: 0.2rem;
+}
+
+.institucion__periodo1 {
+    color: var( --white-word);
+    font-family: 'Inter', sans-serif;
+    font-size: 0.8rem;
+    padding-top: 0.2rem;
+}
+
+
+.item2--grid {
+    background: white;
+    border: 1px solid black;
+    margin-right: 10px;
+}
+
+.item3--grid {
+    background: white;
+    border: 1px solid black;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.institucion__nombre2 {
+    color: var( --white-word);
+    font-family: 'Inter', sans-serif;
+    font-size: 1rem;
+    margin-left: 10px;
+    padding-top: 0.2rem;
+}
+
+
+.institucion__periodo2 {
+    color: var( --white-word);
+    font-family: 'Inter', sans-serif;
+    font-size: 0.8rem;
+    margin-left: 10px;
+    padding-top: 0.2rem;
+}
+
+
+.item4--grid {
+    background: white;
+    border: 1px solid black;
+    margin-left: 10px;
+}
+
+
+.institucion3__nombre {
+    color: var( --white-word);
+    font-family: 'Inter', sans-serif;
+    font-size: 1rem;
+    margin-left: 10px;
+    padding-top: 0.2rem;
+}
+
+.institucion__periodo3 {
+    color: var( --white-word);
+    font-family: 'Inter', sans-serif;
+    font-size: 0.8rem;
+    margin-left: 10px;
+    padding-top: 0.2rem;
+}

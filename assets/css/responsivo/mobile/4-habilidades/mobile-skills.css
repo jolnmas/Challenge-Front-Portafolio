@@ -1,0 +1,23 @@
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+
+
+    .skills__container--flex {
+        justify-content: space-between;
+    }
+
+    .skills__iten--flex {
+        border-radius: 5px;
+        height: 10rem;
+        width: 45%;
+    }
+
+    .skills__icon {
+        height: 3rem;
+    }
+
+    .skills__nombre {
+        font-size: 1rem;
+    }
+
+}

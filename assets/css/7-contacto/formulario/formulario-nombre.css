@@ -1,0 +1,57 @@
+.form__nombre {
+    background: rgb(255, 255, 255);
+    border-radius: 5px;
+    height: 30px;
+    margin-bottom: 0.1rem;
+    margin-left: 1rem;
+    margin-top: 0.5rem;
+    padding-top: 1rem;
+    width: 90%;
+}
+
+.nombre__data {
+    height: 20px;
+    padding-top: 1%;
+    position: relative;
+    width: 100%;
+}
+
+
+.input__nombre {
+    border: none;
+    font-family: 'Inter', sans-serif;
+    font-size: 0.7rem;
+    height: 100%;
+    margin-left: 0.5rem;
+    width: calc(100% - 1rem);
+}
+
+
+.label__nombre {
+    bottom: 10px;
+    color: grey;
+    font-family: 'Inter', sans-serif;
+    font-size: 0.7rem;
+    left: 0;
+    padding-left: 0.5rem;
+    pointer-events: none;
+    position: absolute;
+    transform: translateY(-15px);
+}
+
+.input__nombre:focus {
+    border-top: 1px solid silver;
+    border-top-width: thin;
+    outline: none;
+}
+
+
+.error__nombre {
+    color: red;
+    font-family: 'Inter', sans-serif;
+    font-size: 0.7rem;
+    margin-bottom: 0.5rem;
+    margin-left: 1rem;
+    opacity: 0%;
+
+}

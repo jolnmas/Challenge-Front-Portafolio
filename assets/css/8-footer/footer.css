@@ -1,0 +1,10 @@
+.footer {
+    height: 25px;
+}
+
+.footer__titulo {
+    font-family: 'Inter', sans-serif;
+    font-size: 0.5rem;
+    padding-top: 2rem;
+    text-align: center;
+}

@@ -1,0 +1,14 @@
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+ 
+
+    .item__logo {
+        height: 30px;
+        width: 30px;
+    }
+
+    .item__persona {
+        font-size: 0.9rem;
+        padding-top: 0.4rem;
+    }
+}

@@ -1,0 +1,16 @@
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+
+    .menu__item-contacto .menu__link {
+        color: rgb(75, 75, 75);
+        font-size: 1rem;
+        margin-right: 0;
+    }
+
+    .menu__lista {
+        margin-right: 0;
+        margin-top: 0.5rem;
+        padding-top: 1rem;
+    }
+
+}

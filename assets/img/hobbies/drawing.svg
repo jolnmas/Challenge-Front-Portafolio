@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="69px" height="69px" viewBox="0 0 69 69" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <path d="M0 0L69 0L69 69L0 69L0 0Z" id="path_1" />
+    <clipPath id="mask_1">
+      <use xlink:href="#path_1" />
+    </clipPath>
+  </defs>
+  <g id="Picture-icon">
+    <path d="M0 0L69 0L69 69L0 69L0 0Z" id="Background" fill="#FFFFFF" fill-opacity="0" fill-rule="evenodd" stroke="none" />
+    <g clip-path="url(#mask_1)">
+      <path d="M4.3125 10.7811L4.3125 58.2186L64.6875 58.2186L64.6875 10.7811L4.3125 10.7811ZM8.625 15.0936L60.375 15.0936L60.375 45.079L48.9873 33.6239L47.4375 32.0741L37.667 41.8446L25.2686 29.3114L23.7188 27.7616L8.625 42.8553L8.625 15.0936ZM51.75 19.4061C49.3663 19.4061 47.4375 21.335 47.4375 23.7186C47.4375 26.1023 49.3663 28.0311 51.75 28.0311C54.1337 28.0311 56.0625 26.1023 56.0625 23.7186C56.0625 21.335 54.1337 19.4061 51.75 19.4061L51.75 19.4061ZM23.7188 33.8934L43.5293 53.9061L8.625 53.9061L8.625 48.9872L23.7188 33.8934ZM47.4375 38.2059L60.375 51.1434L60.375 53.9061L49.6611 53.9061L40.6992 44.8768L47.4375 38.2059Z" id="Shape" fill="#2A7AE4" fill-rule="evenodd" stroke="none" />
+    </g>
+  </g>
+</svg>

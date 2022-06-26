@@ -1,0 +1,29 @@
+.sobre {
+    background: var(--orange);
+   
+}
+
+.sobre__titulo {
+    font-family: 'Inter', sans-serif;
+    font-size: 1rem;
+    font-weight: bold;
+    margin-bottom: 1rem;
+    margin-left: 10vw;
+    margin-right: 10vw;
+    padding-top: 2rem;
+}
+
+.sobre__texto {
+    align-items: left;
+    font-family: 'Inter', sans-serif;
+    font-size: 0.7rem;
+    margin-left: 10vw;
+    margin-right: 10vw;
+    text-align: justify;
+}
+
+.sobre__firma {
+    height: 5rem;
+    margin-left: 10vw;
+    margin-right: 10vw;
+}
