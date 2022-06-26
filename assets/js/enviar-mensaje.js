@@ -4,17 +4,11 @@ var band3=false;
 var band4=false;
 
 var buttonEnviarMensaje= document.querySelector('#button__enviar');
-
-
-
 buttonEnviarMensaje.addEventListener('click',function(){
-
-
     textName=getName();
     textEmail=getEmail();
     textAsunto=getAsunto();
     textMensaje=getMessage();
-
 
     //nombre
     if(validateEmpty(textName)){
@@ -36,9 +30,6 @@ buttonEnviarMensaje.addEventListener('click',function(){
 
 
     }
-
-
-
 
 
     //email
