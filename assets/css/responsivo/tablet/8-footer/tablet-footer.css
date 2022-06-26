@@ -1,5 +1,7 @@
 @media only screen and (max-width: 768px) {
     .footer__titulo{
+        color:var(--white-word);
         font-size: 0.7rem;
+       
     }
 }

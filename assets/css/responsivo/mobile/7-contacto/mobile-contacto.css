@@ -1,5 +1,16 @@
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
+    .contacto__container--flex {
+        display: flex; 
+        height: 100%;
+    }
+
+    .formulario__contacto{
+    
+        height:100%;
+        width:100%;
+    
+    }
 
     .contacto__titulo {
         font-size: 1.5rem;
