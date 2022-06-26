@@ -6,11 +6,11 @@
 }
 
 .exp0__imagen {
-    animation: exp0 5s;
+  animation: exp0 5s;
     animation-iteration-count: infinite;
     background: url(../../img/proyectos/scene1.png) no-repeat center/contain;
-    height: 290px;
-    width: 500px;
+    height: 400px;
+    width: 800px;
 }
 
 @keyframes exp0 {
@@ -30,18 +30,18 @@
 .exp0__titulo {
     color: var( --white-word);
     font-family: 'Inter', sans-serif;
-    font-size: 1rem;
+    font-size: 1.5rem;
     padding-top: 5rem;
 }
 
 .exp0__descripcion {
     color: var( --white-word);
     font-family: 'Inter', sans-serif;
-    font-size: 0.6rem;
+    font-size: 1rem;
     margin-top: 0.2rem;
 }
 
 .exp0__game{
     background: url(../../img/proyectos/game1.png) no-repeat center/contain;
-    height: 100px;
+  height: 100px;
 }

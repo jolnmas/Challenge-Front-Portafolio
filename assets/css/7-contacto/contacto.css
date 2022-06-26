@@ -5,8 +5,8 @@
 
 .contacto__container--flex {
     display: flex; 
+    height: 40vw;
 }
-
 
 .formulario__contacto{
     background:var(--green-light);
@@ -16,8 +16,8 @@
 }
 
 .contacto__imagen {
-    height: 450px;
-    width: 100%;
+    height: 100%;
+    width: 600px;
 }
 
 .contacto_item1 {
@@ -30,6 +30,7 @@
 .contacto_item2 {
     margin-right: 10vw;
     padding-top: 2rem;
+    width: 100%;
 }
 
 
@@ -42,7 +43,7 @@
 
 .contacto__titulo {
     font-family: 'Inter', sans-serif;
-    font-size: 1rem;
+    font-size: 1.5rem;
     font-weight: bold;
     margin-left: 1rem;
     padding-bottom: 0.5rem;
@@ -53,7 +54,7 @@
 
 .contacto__subtitulo {
     font-family: 'Inter', sans-serif;
-    font-size: 0.6rem;
+    font-size: 0.8rem;
     margin-left: 1rem;
     padding-bottom: 0.5rem;
     text-align: left;

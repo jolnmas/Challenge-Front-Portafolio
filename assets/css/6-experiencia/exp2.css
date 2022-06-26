@@ -9,8 +9,8 @@
     animation: inicio 5s;
     animation-iteration-count: infinite;
     background: url(../../img/proyectos/juegoAhorcado1.png) no-repeat center/contain;
-    height: 290px;
-    width: 500px;
+    height: 390px;
+    width: 700px;
 }
 
 @keyframes inicio {
@@ -30,14 +30,14 @@
 .exp2__titulo {
     color: var( --white-word);
     font-family: 'Inter', sans-serif;
-    font-size: 1rem;
+    font-size: 1.5rem;
     padding-top: 5rem;
 }
 
 .exp2__descripcion {
     color: var( --white-word);
     font-family: 'Inter', sans-serif;
-    font-size: 0.6rem;
+    font-size: 1rem;
     margin-top: 0.2rem;
 }
 

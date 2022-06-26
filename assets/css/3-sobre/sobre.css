@@ -1,11 +1,14 @@
 .sobre {
+
     background: var(--orange);
-   
+height: 270px;
+padding-top:2rem;
+
 }
 
 .sobre__titulo {
     font-family: 'Inter', sans-serif;
-    font-size: 1rem;
+    font-size: 1.5rem;
     font-weight: bold;
     margin-bottom: 1rem;
     margin-left: 10vw;
@@ -16,14 +19,15 @@
 .sobre__texto {
     align-items: left;
     font-family: 'Inter', sans-serif;
-    font-size: 0.7rem;
+    font-size: 1.1rem;
     margin-left: 10vw;
     margin-right: 10vw;
     text-align: justify;
 }
 
 .sobre__firma {
-    height: 5rem;
+    height: 7rem;
     margin-left: 10vw;
     margin-right: 10vw;
+
 }
