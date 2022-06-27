@@ -92,17 +92,12 @@ buttonEnviarMensaje.addEventListener('click',function(){
 
 
     }
-
-
-
     if(band1&&band2&&band3&&band4){
         sendMessage(textName,textEmail,textAsunto,textMensaje);
     }
 
 
 });
-
-
 
 function sendMessage(nombre,email,asunto,mensaje){
   
@@ -115,11 +110,8 @@ function sendMessage(nombre,email,asunto,mensaje){
         .then(response =>finalMessage())
         .catch(error => console.error('Error!', error.message))
     })
-  
- 
-
-
 }
+
 function finalMessage(){
    cleanForm();
    band1=false;
